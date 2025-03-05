@@ -1,5 +1,5 @@
 # dust_free_encoder
-This is a remix for the popular encoder used by the ercf V1 and V2. It mainly focuses on keeping the encoder compartment isolated so that filament dust will less settle inside the encoder wheel and binky sensor.
+This is a remix for the popular encoder used by the ercf V1 and [V2](https://github.com/Enraged-Rabbit-Community/ERCF_v2) as well as for the [EREC](https://github.com/kevinakasam/ERCF_Filament_Cutter) project. It mainly focuses on keeping the encoder compartment isolated so that filament dust will less settle inside the encoder wheel and binky sensor.
 
 ![Remix](./ressources/mod_explanation.png)
 
