@@ -11,10 +11,20 @@ The `Steps` folder contains the following:
 
 | File | Description | illustration |
 | --- | --- | --- |
-| `encoder_right_housing_remixed_for_ercfv1.step` | The right encoder part remixed to accomodate the insulation ring and also have the magnet holder for the ercfv1 magnetic gates.  | ![encoder_right_housing_remixed_for_ercfv1](./ressources/encoder_right_housing_remixed_for_ercfv1.png) |
-| `encoder_right_housing_remixed_for_ercfv2.step` | The right encoder part remixed to accomodate the insulation ring.  | ![encoder_right_housing_remixed_for_ercfv2](./ressources/encoder_right_housing_remixed_for_ercfv2.png) |
-| `encoder_left_housing_remixed.step` | The left encoder part remixed to accomodate the insulation ring. | ![encoder_left_housing_remixed](./ressources/encoder_left_housing_remixed.png) |
+| `encoder_right_housing_remixed_for_ercfv1_623.step` | The right encoder part remixed to accomodate the insulation ring and also have the magnet holder for the ercfv1 magnetic gates.  | ![encoder_right_housing_remixed_for_ercfv1_623](./ressources/encoder_right_housing_remixed_for_ercfv1_623.png) |
+| `encoder_right_housing_remixed_for_ercfv2_623.step` | The right encoder part remixed to accomodate the insulation ring.  | ![encoder_right_housing_remixed_for_ercfv2_623](./ressources/encoder_right_housing_remixed_for_ercfv2_623.png) |
+| `encoder_right_housing_remixed_for_ercfv2_V.step` | The right encoder part remixed to accomodate the insulation ring.  | ![encoder_right_housing_remixed_for_ercfv2_V](./ressources/encoder_right_housing_remixed_for_ercfv2_V.png) |
+| `encoder_left_housing_remixed_623.step` | The left encoder part remixed to accomodate the insulation ring. | ![encoder_left_housing_remixed_623](./ressources/encoder_left_housing_remixed_623.png) |
+| `encoder_left_housing_remixed_V.step` | The left encoder part remixed to accomodate the insulation ring. | ![encoder_left_housing_remixed_V](./ressources/encoder_left_housing_remixed_V.png) |
 | `dust_insulation_ring.step` | The insulation ring that will be placed between the encoder wheel and the encoder housing. | ![dust_insulation_ring](./ressources/dust_insulation_ring.png) |
 
+The `Steps/EREC` Folder contains the following:
+| File | Description | illustration |
+| --- | --- | --- |
+| `encoder_right_housing_remixed_for_erec_623.step` | The right encoder part remixed to accomodate the insulation ring and also have the magnet holder for the ercfv1 magnetic gates.  | ![encoder_right_housing_remixed_for_erec_623](./ressources/encoder_right_housing_remixed_for_erec_623.png) |
+| `encoder_right_housing_remixed_for_erec_V.step` | The right encoder part remixed to accomodate the insulation ring and also have the magnet holder for the ercfv1 magnetic gates.  | ![encoder_right_housing_remixed_for_erec_V](./ressources/encoder_right_housing_remixed_for_erec_V.png) |
+| `encoder_left_housing_remixed_for_erec_623.step` | The right encoder part remixed to accomodate the insulation ring and also have the magnet holder for the ercfv1 magnetic gates.  | ![encoder_left_housing_remixed_for_erec_623](./ressources/encoder_left_housing_remixed_for_erec_623.png) |
+| `encoder_left_housing_remixed_for_erec_V.step` | The right encoder part remixed to accomodate the insulation ring and also have the magnet holder for the ercfv1 magnetic gates.  | ![encoder_left_housing_remixed_for_erec_V](./ressources/encoder_left_housing_remixed_for_erec_V.png) |
+
 # Note
-Only the version for v623 bearing is available for now, the V bearing option might be added later on inn regards to this mods popularity.
+The only missing configuration would be the `encoder_right_housing_remixed_for_ercfv1_V.step` which might be added upon request. EREC does not need to differentiate between V1 and V2 as it doesn't support magnetic gates.
